@@ -10,7 +10,7 @@ public class App {
         System.out.println("Informe outro número: ");
         int num2;
         num2 = leia.nextInt();
-
+        leia.close();
         if (num1 > num2) {
             System.out.printf("O maior número informadoo foi [%d]", num1);
         } else {
