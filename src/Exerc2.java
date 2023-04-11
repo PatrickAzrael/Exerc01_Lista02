@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exerc02 {
+public class Exerc2 {
     public static void main(String[] args) {
         Scanner leia = new Scanner(System.in);
         System.out.println("Informe um valor: ");
