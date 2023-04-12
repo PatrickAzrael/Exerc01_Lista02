@@ -2,6 +2,16 @@ import java.util.Scanner;
 
 public class Exerc5 {
     public static void main(String[] args) {
+        /*
+         * Nome do Aluno: Patrick Azrael Silva Carvalho
+         * RA: 722313052
+         * Nome do Programa: Faça um programa para a leitura de duas notas parciais de
+         * um aluno. O programa deve calcular a média alcançada por aluno e apresentar:
+         * A mensagem "Aprovado", se a média alcançada for maior ou igual a sete;
+         * A mensagem "Reprovado", se a média for menor do que sete;
+         * A mensagem "Aprovado com Distinção", se a média for igual a dez.
+         * Data: 16/04/23
+         */
         System.out.println("Informe sua primeira nota: ");
         Scanner leia = new Scanner(System.in);
         int nota1 = leia.nextInt();

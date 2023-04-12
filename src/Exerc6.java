@@ -2,6 +2,13 @@ import java.util.Scanner;
 
 public class Exerc6 {
     public static void main(String[] args) {
+        /*
+         * Nome do Aluno: Patrick Azrael Silva Carvalho
+         * RA: 722313052
+         * Nome do Programa: Faça um Programa que leia três números e mostre o maior
+         * deles.
+         * Data: 16/04/23
+         */
         Scanner leia = new Scanner(System.in);
         System.out.println("Informe um número: ");
         int num1 = leia.nextInt();
